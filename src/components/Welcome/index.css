@@ -1,0 +1,28 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e293b;
+  height: 100vh;
+}
+.head {
+  color: #f0bb03;
+  font-size: 35px;
+  font-family: Bree Serif;
+  font-weight: 600;
+  margin-top: 50px;
+}
+.description {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: Bree Serif;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+.sub-button {
+  border-radius: 10px;
+  background-color: bisque;
+  height: 40px;
+  width: 100px;
+}
